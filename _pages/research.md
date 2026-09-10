@@ -10,5 +10,5 @@ I am interested in understanding how diffusion, geometry, and biochemical intera
 
 
 <video width="100%" controls autoplay muted loop playsinline>
-  <source src="/images/ringvideo.mp4" type="video/mp4">
+  <source src="/images/ringvideo_h264.mp4" type="video/mp4">
 </video>
