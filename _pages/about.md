@@ -11,5 +11,5 @@ My research focuses on understanding how geometry, diffusion, and biochemical fe
 <div style="text-align:center; margin-top:30px;">
   <img src="/images/Picture1.png"
        alt="Reaction-diffusion pattern on an annular domain"
-       style="max-width:320px; width:100%; height:auto;">
+       style="max-width:300px; width:100%; height:auto;">
 </div>
