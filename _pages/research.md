@@ -10,7 +10,7 @@ A current focus of my research is the mathematical modelling of intracellular ac
 
 More broadly, I am interested in the mechanisms underlying pattern formation in reaction–diffusion systems, particularly the roles of diffusion, nonlinear interactions, and domain geometry. I combine analytical approaches with numerical simulations to investigate the emergence, stability, and evolution of spatial and spatiotemporal patterns on complex domains.
 
-## Spatio-temporal pattern formation on an annulus
+## Spatiotemporal pattern formation on an annulus
 
 The simulation below illustrates the emergence and evolution of spatiotemporal patterns in a reaction–diffusion system defined on an annular domain. It demonstrates how diffusion, nonlinear interactions, and domain geometry can jointly shape complex spatial organization over time.
 
