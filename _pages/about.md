@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 <div style="margin: 0 0 28px 0; text-align:center;">
-  <img src="/images/IMG_9578.jpeg"
+  <img src="/images/IMG_9598.jpeg"
        alt=""
        style="
          width: 55%;
