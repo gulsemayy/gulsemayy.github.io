@@ -38,7 +38,7 @@
 
 
 /* =========================================================
-   CUSTOM STYLE
+   Gülsemay Yiğit
    Contrast + Navy + Indigo + Periwinkle
    ========================================================= */
 
@@ -56,54 +56,82 @@ body {
 }
 
 
-/* ---------- TOP NAVIGATION ---------- */
+/* =========================================================
+   TOP NAVIGATION
+   ========================================================= */
 
 .masthead {
   background: #c9ccec !important;
-  border-bottom: 2px solid #aeb4df;
+  background-color: #c9ccec !important;
+  border-bottom: 2px solid #aeb4df !important;
+  box-shadow: none !important;
 }
 
-.masthead__inner-wrap {
-  background: transparent !important;
+/* Remove white inner box from Contrast theme */
+.masthead__inner-wrap,
+.masthead__menu,
+.masthead__menu-item,
+.masthead__menu-item--lg,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .visible-links li {
+  background: #c9ccec !important;
+  background-color: #c9ccec !important;
+  box-shadow: none !important;
 }
 
-.greedy-nav {
-  background: transparent !important;
-}
-
-.greedy-nav .visible-links {
-  background: transparent !important;
-}
-
-.greedy-nav a {
-  background: transparent !important;
+/* Navigation links */
+.greedy-nav a,
+.greedy-nav .visible-links a,
+.greedy-nav .visible-links > li > a,
+.masthead__menu-item a {
+  background: #c9ccec !important;
+  background-color: #c9ccec !important;
   color: #17324d !important;
+
   font-size: 1.08em;
   font-weight: 600;
   letter-spacing: 0.01em;
+
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
 
-.greedy-nav a:hover {
+/* Hover */
+.greedy-nav a:hover,
+.greedy-nav .visible-links a:hover,
+.greedy-nav .visible-links > li > a:hover {
+  background: #c9ccec !important;
+  background-color: #c9ccec !important;
   color: #3f51b5 !important;
 }
 
 /* Site name */
 .masthead__menu-item--lg a {
+  background: #c9ccec !important;
   color: #17324d !important;
   font-size: 1.15em;
   font-weight: 700;
 }
 
-/* Active page underline */
+/* Active underline */
 .greedy-nav .visible-links a:before {
   background: #3f51b5 !important;
+  background-color: #3f51b5 !important;
   height: 3px;
 }
 
+/* Navigation button / mobile menu */
+.greedy-nav button {
+  background: #c9ccec !important;
+  background-color: #c9ccec !important;
+  color: #17324d !important;
+}
 
-/* ---------- MAIN CONTENT ---------- */
+
+/* =========================================================
+   MAIN CONTENT
+   ========================================================= */
 
 .page__content {
   color: #424957;
@@ -155,7 +183,9 @@ body {
 }
 
 
-/* ---------- SIDEBAR ---------- */
+/* =========================================================
+   SIDEBAR
+   ========================================================= */
 
 .sidebar {
   background: transparent;
@@ -185,7 +215,9 @@ body {
 }
 
 
-/* ---------- HOMEPAGE BANNER ---------- */
+/* =========================================================
+   HOMEPAGE BANNER
+   ========================================================= */
 
 .home-banner {
   width: 100%;
@@ -196,14 +228,19 @@ body {
 .home-banner img {
   width: 72%;
   height: 72px;
+
   object-fit: cover;
   object-position: center 50%;
+
   border-radius: 12px;
+
   box-shadow: 0 4px 14px rgba(23, 50, 77, 0.10);
 }
 
 
-/* ---------- PUBLICATIONS ---------- */
+/* =========================================================
+   PUBLICATIONS
+   ========================================================= */
 
 .archive__item-title a {
   color: #3f51b5;
@@ -218,7 +255,9 @@ body {
 }
 
 
-/* ---------- TEACHING ---------- */
+/* =========================================================
+   TEACHING
+   ========================================================= */
 
 .page__content ul,
 .page__content ol {
@@ -230,7 +269,9 @@ body {
 }
 
 
-/* ---------- BUTTONS ---------- */
+/* =========================================================
+   BUTTONS
+   ========================================================= */
 
 .btn {
   background-color: #3f51b5;
@@ -243,7 +284,9 @@ body {
 }
 
 
-/* ---------- TABLES ---------- */
+/* =========================================================
+   TABLES
+   ========================================================= */
 
 table {
   border-color: #d6d9ef;
@@ -254,14 +297,18 @@ thead {
 }
 
 
-/* ---------- HORIZONTAL RULE ---------- */
+/* =========================================================
+   HORIZONTAL RULE
+   ========================================================= */
 
 hr {
   border-color: #d6d9ef;
 }
 
 
-/* ---------- FOOTER ---------- */
+/* =========================================================
+   FOOTER
+   ========================================================= */
 
 .page__footer {
   background: #eef0fa;
@@ -277,7 +324,9 @@ hr {
 }
 
 
-/* ---------- MOBILE ---------- */
+/* =========================================================
+   MOBILE
+   ========================================================= */
 
 @media (max-width: 768px) {
 
