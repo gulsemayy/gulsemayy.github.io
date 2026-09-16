@@ -2,10 +2,8 @@
 ---
 
 /*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
- * sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ * Main stylesheet
+ * Customised for Gülsemay Yiğit
  */
 
 @import
@@ -40,16 +38,17 @@
 
 
 /* =========================================================
-   Gülsemay Yiğit — Indigo / Navy Academic Style
+   Gülsemay Yiğit
+   Navy + Indigo + Periwinkle Academic Theme
    ========================================================= */
 
 
-/* ---------- GENERAL ---------- */
+/* ---------- PAGE ---------- */
 
 html,
 body {
-  background: #f7fafd;
-  color: #444b55;
+  background-color: #fbfcff;
+  color: #414854;
 }
 
 body {
@@ -60,16 +59,16 @@ body {
 /* ---------- TOP NAVIGATION ---------- */
 
 .masthead {
-  background: #f7fafd;
-  border-bottom: 2px solid #d9e4ef;
+  background-color: #d7d9f0 !important;
+  border-bottom: 2px solid #b9bfdf;
 }
 
 .greedy-nav {
-  background: #f7fafd;
+  background-color: #d7d9f0 !important;
 }
 
 .greedy-nav a {
-  color: #17324d;
+  color: #17324d !important;
   font-size: 1.08em;
   font-weight: 500;
   letter-spacing: 0.01em;
@@ -78,19 +77,19 @@ body {
 }
 
 .greedy-nav a:hover {
-  color: #3f51b5;
+  color: #3f51b5 !important;
 }
 
 /* Site name */
 .masthead__menu-item--lg a {
-  color: #17324d;
+  color: #17324d !important;
   font-size: 1.16em;
   font-weight: 700;
 }
 
-/* Active menu underline */
+/* Active page underline */
 .greedy-nav .visible-links a:before {
-  background: #3f51b5;
+  background-color: #3f51b5 !important;
   height: 3px;
 }
 
@@ -98,7 +97,7 @@ body {
 /* ---------- MAIN CONTENT ---------- */
 
 .page__content {
-  color: #444b55;
+  color: #414854;
   font-family: "Avenir Next", "Helvetica Neue", Arial, sans-serif;
   font-size: 1.02em;
 }
@@ -109,40 +108,41 @@ body {
 }
 
 
+/* ---------- HEADINGS ---------- */
+
+.page__content h1 {
+  color: #17324d;
+  font-weight: 650;
+}
+
+.page__content h2 {
+  color: #273f72;
+  font-weight: 600;
+  margin-top: 1.8em;
+  padding-bottom: 0.35em;
+  border-bottom: 2px solid #d7d9f0;
+}
+
+.page__content h3 {
+  color: #3f51b5;
+  font-weight: 600;
+}
+
+
 /* ---------- LINKS ---------- */
 
 .page__content a {
-  color: #3f51b5;
+  color: #4056b4;
   text-decoration: none;
 }
 
 .page__content a:visited {
-  color: #4d5fb5;
+  color: #5263b9;
 }
 
 .page__content a:hover {
   color: #17324d;
   text-decoration: underline;
-}
-
-
-/* ---------- HEADINGS ---------- */
-
-.page__content h1,
-.page__content h2,
-.page__content h3 {
-  color: #17324d;
-  font-weight: 600;
-}
-
-.page__content h2 {
-  margin-top: 1.8em;
-  padding-bottom: 0.35em;
-  border-bottom: 2px solid #d9e4ef;
-}
-
-.page__content h3 {
-  color: #2c4770;
 }
 
 
@@ -163,12 +163,12 @@ body {
 }
 
 .author__avatar img {
-  border: 4px solid #d9e4ef;
+  border: 4px solid #cdd1eb;
   box-shadow: 0 5px 18px rgba(23, 50, 77, 0.10);
 }
 
 .author__urls a {
-  color: #526273;
+  color: #536173;
 }
 
 .author__urls a:hover {
@@ -176,7 +176,7 @@ body {
 }
 
 
-/* ---------- HOMEPAGE BANNER ---------- */
+/* ---------- HOMEPAGE SUNSET BANNER ---------- */
 
 .home-banner {
   width: 100%;
@@ -185,8 +185,8 @@ body {
 }
 
 .home-banner img {
-  width: 82%;
-  height: 85px;
+  width: 72%;
+  height: 72px;
   object-fit: cover;
   object-position: center 50%;
   border-radius: 12px;
@@ -209,6 +209,18 @@ body {
 }
 
 
+/* ---------- TEACHING ---------- */
+
+.page__content ul,
+.page__content ol {
+  line-height: 1.65;
+}
+
+.page__content strong {
+  color: #273f72;
+}
+
+
 /* ---------- BUTTONS ---------- */
 
 .btn {
@@ -225,26 +237,26 @@ body {
 /* ---------- TABLES ---------- */
 
 table {
-  border-color: #d9e4ef;
+  border-color: #d7d9f0;
 }
 
 thead {
-  background: #eef4f9;
+  background-color: #eef0fa;
 }
 
 
-/* ---------- HORIZONTAL RULE ---------- */
+/* ---------- HORIZONTAL LINES ---------- */
 
 hr {
-  border-color: #d9e4ef;
+  border-color: #d7d9f0;
 }
 
 
 /* ---------- FOOTER ---------- */
 
 .page__footer {
-  background: #eef4f9;
-  color: #5f6d7a;
+  background-color: #eef0fa;
+  color: #5e6876;
 }
 
 .page__footer a {
@@ -268,7 +280,7 @@ hr {
 
   .home-banner img {
     width: 100%;
-    height: 72px;
+    height: 68px;
     border-radius: 10px;
   }
 
