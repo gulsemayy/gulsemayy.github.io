@@ -6,6 +6,20 @@ author_profile: true
 
 I have extensive experience teaching undergraduate mathematics, ranging from first-year calculus and linear algebra to differential equations, numerical analysis, and applied linear algebra. My teaching has included both small-class instruction and the coordination of large multi-section courses with several hundred students.
 
+
+## Bahçeşehir University
+
+### Linear Algebra
+
+**MAT 2043 — Linear Algebra with Applications**
+
+- Fall 2026
+
+**MAT 1041 — Linear Algebra**
+
+- Fall 2026
+
+
 ## University of British Columbia
 
 ### MATH 307 — Applied Linear Algebra
@@ -16,8 +30,6 @@ Course Instructor
 - Fall 2025
 - Summer 2025
 
-At UBC, I taught Applied Linear Algebra with an emphasis on mathematical understanding, applications, and computational approaches. I used Canvas for course communication, assignments, quizzes, and assessment materials.
-
 
 ## Bahçeşehir University
 
@@ -25,13 +37,11 @@ At UBC, I taught Applied Linear Algebra with an emphasis on mathematical underst
 
 **MAT 2043 — Linear Algebra with Applications**
 
-- Fall 2026
 - Fall 2024
 - Fall 2023
 
 **MAT 1041 — Linear Algebra**
 
-- Fall 2026
 - Fall 2024
 - Summer 2024
 
@@ -53,9 +63,7 @@ I have coordinated multi-section Linear Algebra courses involving more than 500 
 - Spring 2021
 - Spring 2020
 
-Several of these courses involved the coordination of multiple sections and several hundred students. During the COVID-19 period, I also developed online and flipped-learning materials for Calculus courses.
-
-
+Several of these courses involved the coordination of multiple sections and several hundred students. 
 ### Differential Equations
 
 **MAT 2062 — Differential Equations**
@@ -84,7 +92,6 @@ I coordinated multi-section offerings with more than 400 students.
 
 ## Altınbaş University
 
-Before joining Bahçeşehir University, I taught a broad range of undergraduate mathematics courses at Altınbaş University between 2013 and 2020.
 
 ### Numerical Analysis
 
@@ -166,4 +173,4 @@ Before joining Bahçeşehir University, I taught a broad range of undergraduate 
 
 Across my teaching appointments, I have coordinated large multi-section mathematics courses with enrolments ranging from several hundred to more than 800 students. My responsibilities have included course planning, preparation and coordination of assessments, development of instructional materials, and ensuring consistency across multiple sections and instructors.
 
-I use a range of digital teaching environments, including Canvas at UBC and Microsoft Teams and itslearning at Bahçeşehir University, for quizzes, assignments, course materials, and communication with students.
+I use a range of digital teaching environments for quizzes, assignments, course materials, and communication with students.
