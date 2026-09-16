@@ -4,7 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-My teaching interests include calculus, linear algebra, differential equations, numerical methods, and applied mathematics.
+My teaching interests include calculus, linear algebra, differential equations, numerical methods.
 
 ## Selected Courses
 
