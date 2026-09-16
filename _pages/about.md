@@ -3,9 +3,18 @@ permalink: /
 title: ""
 author_profile: true
 ---
-
-<div class="home-banner">
-  <img src="/images/IMG_9598.jpeg" alt="">
+<div style="margin: 0 0 28px 0; text-align:center;">
+  <img src="/images/IMG_9977.jpeg"
+       alt=""
+       style="
+         width: 55%;
+         max-width: 620px;
+         height: 115px;
+         object-fit: cover;
+         object-position: center 52%;
+         border-radius: 14px;
+         box-shadow: 0 5px 18px rgba(0,0,0,0.10);
+       ">
 </div>
 
 
