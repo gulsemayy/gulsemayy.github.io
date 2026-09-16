@@ -37,3 +37,51 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+
+/* ===== Gülsemay homepage style ===== */
+
+:root {
+  --global-bg-color: #fffdf9;
+  --global-link-color: #3f7f7b;
+  --global-link-color-hover: #d7795f;
+  --global-link-color-visited: #5f8f8b;
+  --global-masthead-link-color-hover: #3f7f7b;
+}
+
+/* Slim homepage banner */
+.home-banner {
+  width: 100%;
+  margin: 0 0 1.8rem 0;
+}
+
+.home-banner img {
+  width: 100%;
+  height: 155px;
+  object-fit: cover;
+  object-position: center 46%;
+  border-radius: 14px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+/* Warm up the navigation */
+.masthead {
+  border-bottom: 3px solid #dce9e4;
+}
+
+/* Slightly more elegant content spacing */
+.page__content p {
+  line-height: 1.72;
+}
+
+/* Profile photo */
+.author__avatar img {
+  border: 4px solid #dce9e4;
+}
+
+/* Headings */
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  color: #355f5b;
+}
