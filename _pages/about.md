@@ -11,7 +11,7 @@ author_profile: true
          max-width: 620px;
          height: 135px;
          object-fit: cover;
-         object-position: center 52%;
+         object-position: center 55%;
          border-radius: 14px;
          box-shadow: 0 5px 18px rgba(0,0,0,0.10);
        ">
