@@ -7,9 +7,9 @@ author_profile: true
   <img src="/images/IMG_9598.jpeg"
        alt=""
        style="
-         width: 80%;
+         width: 90%;
          max-width: 620px;
-         height: 125px;
+         height: 135px;
          object-fit: cover;
          object-position: center 52%;
          border-radius: 14px;
