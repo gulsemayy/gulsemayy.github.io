@@ -4,7 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-I have extensive experience teaching undergraduate mathematics, ranging from first-year calculus and linear algebra to differential equations, numerical analysis, and applied linear algebra. My teaching has included both small-class instruction and the coordination of large multi-section courses with several hundred students.
+For over ten years, I have taught undergraduate mathematics courses, including Calculus, Linear Algebra, Differential Equations, and Numerical Methods, at different universities. I have coordinated large, multi-section courses with several hundred students.
 
 
 ## Bahçeşehir University
@@ -63,7 +63,7 @@ I have coordinated multi-section Linear Algebra courses involving more than 500 
 - Spring 2021
 - Spring 2020
 
-Several of these courses involved the coordination of multiple sections and several hundred students. 
+
 ### Differential Equations
 
 **MAT 2062 — Differential Equations**
@@ -73,7 +73,7 @@ Several of these courses involved the coordination of multiple sections and seve
 - Spring 2022
 - Fall 2021
 
-I coordinated multi-section offerings with more than 400 students.
+
 
 
 ### Numerical Methods
@@ -171,6 +171,6 @@ I coordinated multi-section offerings with more than 400 students.
 
 ## Teaching and Course Coordination
 
-Across my teaching appointments, I have coordinated large multi-section mathematics courses with enrolments ranging from several hundred to more than 800 students. My responsibilities have included course planning, preparation and coordination of assessments, development of instructional materials, and ensuring consistency across multiple sections and instructors.
+Across my teaching appointments, I am actively included in course planning, preparation and coordination of assessments, development of course materials, and ensuring consistency across multiple sections and instructors.
 
 I use a range of digital teaching environments for quizzes, assignments, course materials, and communication with students.
