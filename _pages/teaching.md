@@ -45,7 +45,6 @@ Course Instructor
 - Fall 2024
 - Summer 2024
 
-I have coordinated multi-section Linear Algebra courses involving more than 500 students.
 
 
 ### Calculus
